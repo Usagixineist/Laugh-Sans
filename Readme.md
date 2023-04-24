@@ -1,7 +1,6 @@
 
 
-<img src="testpic\cn.png">
-<img src="testpic\en.png">
+<img src="intro\intro.png">
 
 
 肆意黑是一款以[得意黑](https://github.com/atelier-anchor/smiley-sans)为基础、在笔画风格上进行更加大胆设计的字体。在吸取了得意黑弯钩、折角等设计后进行了更多艺术的处理而衍生出肆意的设计。
@@ -10,7 +9,14 @@
 
 ## 设计细节
 
-（挺多的，做的时候有时间就写）
+<img src="intro\intro01.png">
+<img src="intro\intro02.png">
+<img src="intro\intro03.png">
+<img src="intro\intro04.png">
+<img src="intro\intro05.png">
+<img src="intro\intro06.png">
+<img src="intro\intro07.png">
+<img src="intro\intro08.png">
 
 ## 关于
 
